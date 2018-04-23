@@ -1,13 +1,13 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Sasja/z340/master?filepath=z340.ipynb)
 
-# z340
-Testdriving Jupyter Notebook using superpumpie's blog post [The Zodiac Killer's unsolved z340: like a fake substitution cipher](http://tsjuzek.com/blog/z340.html) ([github repo](https://github.com/superpumpie/z340))
+## The Zodiac Killer's unsolved z340: like a fake substitution cipher
+Testdriving Jupyter Notebook based on [superpumpie's blogpost](http://tsjuzek.com/blog/z340.html) ([github repo](https://github.com/superpumpie/z340))
 
-# How to run this notebook
-## online
+## How to run this notebook
+### Online:
 Simply click the Binder badge above
 
-## locally on ubuntu
+### Locally on Ubuntu:
 1. clone the this repo in an appropriate folder
 2. run
 ```bash
