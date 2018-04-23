@@ -3,12 +3,15 @@
 ## The Zodiac Killer's unsolved z340: like a fake substitution cipher
 Testdriving Jupyter Notebook based on [superpumpie's blogpost](http://tsjuzek.com/blog/z340.html) ([github repo](https://github.com/superpumpie/z340))
 
-## How to run this notebook
-### Online:
-Simply click the Binder badge above
+## How to use this notebook
+### Online static:
+Just view the file [z340.ipynb](z340.ipynb) on github.
 
-### Locally on Ubuntu:
-1. clone the this repo in an appropriate folder
+### Online interactive:
+Click the Binder badge above or [here](https://mybinder.org/v2/gh/Sasja/z340/master?filepath=z340.ipynb)
+
+### Run the notebook locally on Ubuntu:
+1. clone the this repo into an appropriate folder
 2. run
 ```bash
 python3 -m venv env
