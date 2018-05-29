@@ -21,3 +21,4 @@ pip install -r requirements.txt
 jupyter notebook z340.ipynb
 ```
 3. the notebook should now open in your browser
+
